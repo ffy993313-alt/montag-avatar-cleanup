@@ -1,0 +1,3 @@
+name = "montag-avatar-cleanup"
+main = "api/delete-old-avatar.js"
+compatibility_date = "2026-01-01"
